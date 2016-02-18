@@ -1,6 +1,8 @@
 Newest changes at the top
 YYYY-MM-DD HH:MM comment
 
+2016-02-18 14:57 - enabled ratings widget
+2016-02-18 14:09 - enabled Caboose
 2016-02-18 13:50 - checked in
 2016-02-18 13:45 - create changelog 
 2016-02-18 13:00 - Readme file, initial setup
