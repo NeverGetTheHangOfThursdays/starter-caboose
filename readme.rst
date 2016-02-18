@@ -1,3 +1,31 @@
+ACIT 4850 - Lab 6 Working with addins
+
+**************
+Team Members
+**************
+
+Richard Gosse (rwgosse) checked in  
+
+Chris Leclair (XCVG)
+
+**************
+Conventions
+**************
+
+Allman style braces
+tab indentations
+ucfirst (Upper case first) for classes and files
+lowercase for names elsewhere
+words separated by underscores
+underscore first for internal items
+
+**************
+Work Distribution
+**************
+
+
+
+Original readme follows...
 ###################################
 Tutorial 5 Starter Webapp - Caboose
 ###################################
