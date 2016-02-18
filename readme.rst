@@ -23,6 +23,8 @@ underscore first for internal items
 Work Distribution
 **************
 
+Richard - first, third, archive maintainer
+Chris - second, third
 
 
 Original readme follows...
