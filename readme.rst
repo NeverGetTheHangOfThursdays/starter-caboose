@@ -4,7 +4,9 @@ ACIT 4850 - Lab 6 Working with addins
 Team Members
 **************
 
-Richard Gosse (rwgosse) checked in
+Richard Gosse (rwgosse) checked in  
+
+Chris Leclair (XCVG)
 
 **************
 Conventions
